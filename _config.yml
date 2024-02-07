@@ -2,9 +2,9 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
 title: ComicContours
 description: CS 426 Senior Project Team 7, Spring 2023, UNR, CSE Department
-logo: ./logo.jpg
+logo: ./current.jpg
 email: brbrhiannon@aol.com
-favicon: true
+favicon: false
 color-scheme: auto
 
 plugins:
@@ -20,23 +20,3 @@ platforms:
 navigation:
   - name: Home Page
     link: ./
-    sublist:
-      - name: Usage
-        link: ./#usage
-      - name: Customizing
-        link: ./#customizing
-      - name: Customizing Sidebar
-        link: ./#customizing-sidebar
-      - name: Navigation
-        link: ./#navigation
-      - name: Example
-        link: ./#example
-      - name: Stylesheet
-        link: ./#stylesheet
-      - name: Credits
-        link: ./#credits
-  - name: Sample
-    link: ./another-page.html
-    sublist:
-      - name: Image
-        link: ./another-page.html#small-image
