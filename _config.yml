@@ -1,9 +1,9 @@
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 
-title: Minimalistic
-description: Minimalistic is a theme powered by Jekyll.
+title: ComicContours
+description: CS 426 Senior Project Team 7, Spring 2023, UNR, CSE Department
 logo: ./logo.jpg
-email: vbhvvikas@gmail.com
+email: brbrhiannon@aol.com
 favicon: true
 color-scheme: auto
 
@@ -15,10 +15,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/vaibhavvikas
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/vaibhavvikas
+    link: https://github.com/Senior-ProjectTeam07/ComicContours
 
 navigation:
   - name: Home Page
