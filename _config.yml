@@ -1,0 +1,45 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+title: Minimalistic
+description: Minimalistic is a theme powered by Jekyll.
+logo: ./logo.jpg
+email: vbhvvikas@gmail.com
+favicon: true
+color-scheme: auto
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
+
+navigation:
+  - name: Home Page
+    link: ./
+    sublist:
+      - name: Usage
+        link: ./#usage
+      - name: Customizing
+        link: ./#customizing
+      - name: Customizing Sidebar
+        link: ./#customizing-sidebar
+      - name: Navigation
+        link: ./#navigation
+      - name: Example
+        link: ./#example
+      - name: Stylesheet
+        link: ./#stylesheet
+      - name: Credits
+        link: ./#credits
+  - name: Sample
+    link: ./another-page.html
+    sublist:
+      - name: Image
+        link: ./another-page.html#small-image
