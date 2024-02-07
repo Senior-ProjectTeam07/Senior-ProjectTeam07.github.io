@@ -4,7 +4,7 @@ title: ComicContours
 description: CS 426 Senior Project Team 7, Spring 2023, UNR, CSE Department
 logo: ./current.jpg
 email: brbrhiannon@aol.com
-favicon: false
+favicon: true
 color-scheme: auto
 
 plugins:
@@ -15,7 +15,7 @@ plugins:
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: https://github.com/Senior-ProjectTeam07/ComicContours
+    link: https://github.com/Senior-ProjectTeam07/ComicContours/
 
 navigation:
   - name: Home Page
