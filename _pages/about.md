@@ -6,7 +6,7 @@ subtitle: CS 426 Senior Project in Computer Science, Spring 2023, UNR, CSE Depar
 
 profile:
   align: right
-  image: team_photo.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Team 07</p>
