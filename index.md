@@ -60,5 +60,5 @@ ComicContours is designed with accessibility in mind, following WCAG guidelines 
 
 This website is committed to being available for at least one year post-semester, providing a lasting resource for future CS 426 students and interested parties.
 
-For more information or to get in touch, please contact us at brbrhiannon@aol.com.
+For more information or to get in touch, please contact us at info@comiccontours.com.
 
