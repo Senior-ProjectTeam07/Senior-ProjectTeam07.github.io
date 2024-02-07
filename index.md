@@ -5,7 +5,7 @@
 
 ## Project Overview
 
-ComicContours represents the culmination of efforts by Team 7 in the CS 426 Senior Projects course at the University of Nevada, Reno. This project introduces an innovative approach to digital art creation, employing Generative Adversarial Networks (GANs) to transform user-uploaded images into caricatures. Our aim is to bridge the gap between complex machine learning algorithms and artistic creativity, making art creation accessible to all.
+ComicContours represents the culmination of efforts by Team 7 in the CS 426 Senior Projects course at the University of Nevada, Reno. This project introduces an innovative approach to digital art creation, employing Generative Adversarial Networks (GANs) to transform user-uploaded images into caricatures. Our approach not only facilitates a novel form of artistic creativity but also contributes to the fields of computer vision and machine learning.
 
 ## Team Members
 
@@ -16,15 +16,15 @@ ComicContours represents the culmination of efforts by Team 7 in the CS 426 Seni
 ## Faculty and External Advisors
 
 - Instructors: Sara Davis, Vinh Le, Dave Feil-Seifer
-- External Advisors: Dr. Emily Hand - Assistant Professor, Sara Davis - CSE Instructor
+- External Advisors: Dr. Emily Hand, Sara Davis
 
 ## Project Description
 
-ComicContours endeavors to democratize the process of caricature creation through the application of advanced machine learning techniques, specifically GANs. By automating the traditionally manual and skill-intensive process of caricature drawing, our project opens up new avenues for artistic expression and digital avatar customization. We target a diverse audience ranging from digital art enthusiasts and social media users to professional graphic designers seeking innovative representation methods.
+ComicContours aims to democratize the process of caricature creation through the application of advanced machine learning techniques, specifically GANs. By automating the traditionally manual and skill-intensive process of caricature drawing, our project opens up new avenues for artistic expression and digital avatar customization. We target a diverse audience ranging from digital art enthusiasts and social media users to professional graphic designers seeking innovative representation methods.
 
 Our technology stack includes PyCharm IDE and libraries such as NumPy, DLib, OpenCV for facial recognition and augmentation, alongside tkinter, shutil, and PIL for the user interface. Security measures are upheld using bcrypt, sqlite3, and email-related libraries to ensure user data protection.
 
-Stay informed on our progress, including updates on project deliverables, resources, and news, by navigating through our website.
+We are committed to regular updates and you can stay informed on our progress, including updates on project deliverables, resources, and news, by navigating through our website.
 
 ## Related Resources
 
@@ -48,7 +48,7 @@ For more detailed information on the technologies and methodologies we're explor
 
 ## Legal and Ethical Considerations
 
-In adherence to legal and ethical standards, ComicContours incorporates a user consent mechanism for photo uploads and emphasizes the security and privacy of user data. Our project aligns with the ACM Code of Ethics, particularly in ensuring privacy, prioritizing user well-being, and maintaining transparency and quality in our deliverables.
+In adherence to legal and ethical standards, ComicContours incorporates a user consent mechanism for photo uploads and emphasizes the security and privacy of user data. We prioritize privacy and security, incorporating consent mechanisms and adhering to the ACM Code of Ethics. Our commitment extends to ADA compliance, ensuring ComicContours is accessible, maintaining transparency, and fostering an inclusive digital environment.
 
 ## Updates and Progress
 
@@ -56,5 +56,9 @@ As ComicContours evolves, we commit to providing regular updates on our website.
 
 ## Accessibility Commitment
 
-Ensuring that ComicContours is accessible to all users, including those with disabilities, is a priority for our team. We are dedicated to continuous improvement in this area, guided by the Web Content Accessibility Guidelines (WCAG).
+ComicContours is designed with accessibility in mind, following WCAG guidelines to ensure inclusivity for all users. We are actively working to implement features like text resizing and keyboard navigability to accommodate diverse needs.
+
+This website is committed to being available for at least one year post-semester, providing a lasting resource for future CS 426 students and interested parties.
+
+For more information or to get in touch, please contact us at brbrhiannon@aol.com.
 
